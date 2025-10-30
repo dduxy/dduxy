@@ -9,8 +9,3 @@
 ![Solana](https://img.shields.io/badge/-Solana-9945FF?logo=solana&logoColor=white&style=flat)
 
 
-![Kacper's GitHub stats](https://github-readme-stats.vercel.app/api?username=dduxy&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dduxy&layout=compact&theme=radical)
-
-
-
